@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I build things.
 
-### More Information
+Began playing with computers at age 13. 
 
-A place to include any other types of information that you'd like to include about yourself.
+At [VSH Solutions](https://www.vshsolutions.com) we've launched many successful software applications and businesses alongside them which has grown our business as well. 
 
-### Contact me
+Throughout my life I've been focused on exploring new technologies and creating meaningful and enjoyable products with them. Now most of my time via [VSH Solutions](https://www.vshsolutions.com) is concentrated on working with companies to continue exploring this passion.
 
-[email@domain.com](mailto:email@domain.com)
+Want to chat? Feel free to [email](mailto:kalehrishi@gmail.com) me.
