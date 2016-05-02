@@ -3,4 +3,4 @@ layout: post
 title: Growth hacking explained
 ---
 
-![_config.yml]({{ site.baseurl }}/images/growth-hacking.jpg)
+![Growth hacking explained with wenn diagram]({{ site.baseurl }}/images/growth-hacking.jpg)
