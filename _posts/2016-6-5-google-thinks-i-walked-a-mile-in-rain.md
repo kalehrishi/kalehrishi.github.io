@@ -9,4 +9,4 @@ Yesterday night I was riding a bike on my way from office to home. I was halfway
 
 Lesson learned. Parameters like microclimate could easily create an aberration in behavior and could lead to wrong assumptions.
 
-![Google thinks I walked a mile in rain]({{ site.baseurl }}/images/google-think-i-walked-a-mile-in-rain.png)
+![Google thinks I walked a mile in rain]({{ site.baseurl }}/images/google-think-i-walked-a-mile-in-rain.png | width=360)
